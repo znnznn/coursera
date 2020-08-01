@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Mark",
+        "last name": "Markin",
+        "phone": "123456",
+        "city": "Rivne"
+    },
+    {
+        "name": "Julia",
+        "last name": "Markin",
+        "phone": "564321",
+        "city": "Rivne"
+    },
+    {
+        "name": "Bohdan",
+        "last name": "Markin",
+        "phone": "+1234",
+        "city": "Dnipro"
+    }
+]

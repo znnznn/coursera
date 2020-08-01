@@ -1,0 +1,5 @@
+n = int(input())
+m = int(input())
+n1 = (n // m)
+m1 = (m // n)
+print((n * n1 + m * m1) // (n1 + m1))
